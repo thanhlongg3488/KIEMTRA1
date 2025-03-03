@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            txtUserName = new TextBox();
-            txtpassword = new TextBox();
+            textboxusername = new TextBox();
+            textboxmatkhau = new TextBox();
             label2 = new Label();
             btnlogin = new Button();
             SuspendLayout();
@@ -44,19 +44,19 @@
             label1.TabIndex = 0;
             label1.Text = "tên đăng nhập";
             // 
-            // txtUserName
+            // textboxusername
             // 
-            txtUserName.Location = new Point(238, 52);
-            txtUserName.Name = "txtUserName";
-            txtUserName.Size = new Size(331, 31);
-            txtUserName.TabIndex = 1;
+            textboxusername.Location = new Point(238, 52);
+            textboxusername.Name = "textboxusername";
+            textboxusername.Size = new Size(331, 31);
+            textboxusername.TabIndex = 1;
             // 
-            // txtpassword
+            // textboxmatkhau
             // 
-            txtpassword.Location = new Point(238, 102);
-            txtpassword.Name = "txtpassword";
-            txtpassword.Size = new Size(331, 31);
-            txtpassword.TabIndex = 3;
+            textboxmatkhau.Location = new Point(238, 102);
+            textboxmatkhau.Name = "textboxmatkhau";
+            textboxmatkhau.Size = new Size(331, 31);
+            textboxmatkhau.TabIndex = 3;
             // 
             // label2
             // 
@@ -82,9 +82,9 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(btnlogin);
-            Controls.Add(txtpassword);
+            Controls.Add(textboxmatkhau);
             Controls.Add(label2);
-            Controls.Add(txtUserName);
+            Controls.Add(textboxusername);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
@@ -95,8 +95,8 @@
         #endregion
 
         private Label label1;
-        private TextBox txtUserName;
-        private TextBox txtpassword;
+        private TextBox textboxusername;
+        private TextBox textboxmatkhau;
         private Label label2;
         private Button btnlogin;
     }
