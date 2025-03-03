@@ -40,9 +40,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(96, 55);
             label1.Name = "label1";
-            label1.Size = new Size(94, 25);
+            label1.Size = new Size(128, 25);
             label1.TabIndex = 0;
-            label1.Text = "UserName";
+            label1.Text = "tên đăng nhập";
             // 
             // txtUserName
             // 
@@ -63,9 +63,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(96, 105);
             label2.Name = "label2";
-            label2.Size = new Size(87, 25);
+            label2.Size = new Size(86, 25);
             label2.TabIndex = 2;
-            label2.Text = "Password";
+            label2.Text = "mật khẩu";
             // 
             // btnlogin
             // 
