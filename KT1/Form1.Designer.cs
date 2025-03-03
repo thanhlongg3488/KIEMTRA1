@@ -75,6 +75,7 @@
             btnlogin.TabIndex = 4;
             btnlogin.Text = "đăng nhập";
             btnlogin.UseVisualStyleBackColor = true;
+            btnlogin.Click += btnlogin_Click;
             // 
             // Form1
             // 
