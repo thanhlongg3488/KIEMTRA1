@@ -1,0 +1,17 @@
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\bin\Debug\net8.0-windows\KT1.exe
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\bin\Debug\net8.0-windows\KT1.deps.json
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\bin\Debug\net8.0-windows\KT1.runtimeconfig.json
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\bin\Debug\net8.0-windows\KT1.dll
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\bin\Debug\net8.0-windows\KT1.pdb
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.Form1.resources
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.csproj.GenerateResource.cache
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.AssemblyInfoInputs.cache
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.AssemblyInfo.cs
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.csproj.CoreCompileInputs.cache
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.sourcelink.json
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.dll
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\refint\KT1.dll
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.pdb
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\KT1.genruntimeconfig.cache
+C:\Users\longn\OneDrive\Documents\KT\KIEMTRA1\KT1\obj\Debug\net8.0-windows\ref\KT1.dll
